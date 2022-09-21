@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">absen_manual_apps</string>
+    <string name="formatter" formatted="true">%02d</string>
+    <string-array name="keterangann">
+        <item>Hadir tepat waktu</item>
+        <item>Terlambat</item>
+        <item>Ijin</item>
+        <item>Sakit</item>
+    </string-array>
+
+</resources>
